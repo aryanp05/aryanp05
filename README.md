@@ -17,6 +17,5 @@ Welcome to my GitHub profile! I'm a tech enthusiast and lifelong learner current
 ## 📫 Let's Connect!
 - **Email:** [a236pate@uwaterloo.ca](mailto:a236pate@uwaterloo.ca)
 - **LinkedIn:** [linkedin.com/in/aryanpatel05](https://linkedin.com/in/aryanpatel05)
-- **Twitter:** [@aryanp05](https://twitter.com/aryanp05)
 
 In my free time, you might find me participating in hackathons, exploring new tech trends, or working on personal projects that blend my interests in technology and business. I'm always excited to connect with like-minded individuals and collaborate on innovative projects. Let's create something amazing together! 🚀
