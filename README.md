@@ -20,6 +20,8 @@ a Computer Science student at The University of Waterloo and Business Administra
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" /> &nbsp;
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /> &nbsp;
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /> &nbsp;
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /> &nbsp;
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" /> &nbsp;
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aryanp05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
