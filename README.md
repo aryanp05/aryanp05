@@ -1,6 +1,6 @@
 # Hi there, I'm Aryan Patel! 👋
 
-a Computer Science student at The University of Waterloo and Business Administration Student at Wilfrid Laurier University pursuing a career in software development, ML/AI, and finance.
+👋Hello World, I'm Aryan Patel, a Computer Science student at The University of Waterloo and Business Administration Student at Wilfrid Laurier University pursuing a career in software development, ML/AI, and finance.
 
 💻 I’m proficient in full-stack development, leveraging Next.js/React.js with TailwindCSS for front-end design, Python, C, and C++ for back-end applications, Flask for creating web applications, Tensorflow, PyTorch, and Scikit Learn for machine learning applications, MongoDB and SQLite for database management, and Azure + Other cloud services for cloud hosting!
 
