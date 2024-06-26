@@ -1,18 +1,15 @@
 # Hi there, I'm Aryan Patel! 👋
 
-Welcome to my GitHub profile! I'm a tech enthusiast and lifelong learner currently pursuing a dual degree in Computer Science and Business Administration at the University of Waterloo. I love exploring the intersection of technology and business to create innovative solutions.
+a Computer Science student at The University of Waterloo and Business Administration Student at Wilfrid Laurier University pursuing a career in software development, ML/AI, and finance.
 
-## 🔧 What I Do:
-- **Machine Learning & AI:** Passionate about leveraging AI to solve complex problems and enhance user experiences. My projects often involve natural language processing, data analysis, and developing intelligent systems.
-- **Front-End Development:** Enjoy crafting intuitive and engaging user interfaces using HTML, CSS, and JavaScript to build responsive and dynamic web applications.
-- **Open Source Projects:** Love collaborating with the community and contributing to open-source projects. Always on the lookout for interesting projects to get involved in.
+💻 I’m proficient in full-stack development, leveraging Next.js/React.js with TailwindCSS for front-end design, Python, C, and C++ for back-end applications, Flask for creating web applications, Tensorflow, PyTorch, and Scikit Learn for machine learning applications, MongoDB and SQLite for database management, and Azure + Other cloud services for cloud hosting!
 
-## 📈 My Interests:
-- **AI Technologies:** Fascinated by the rapid advancements in AI and their potential to transform various industries. Interested in applying these technologies to real-world scenarios.
-- **Business & Finance:** Combining technical skills with a keen interest in financial technologies to develop tools that optimize financial strategies and decision-making processes.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
 
-## 📫 Let's Connect!
-- **Email:** [a236pate@uwaterloo.ca](mailto:a236pate@uwaterloo.ca)
-- **LinkedIn:** [linkedin.com/in/aryanpatel05](https://linkedin.com/in/aryanpatel05)
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryanpatel05/) 
 
 In my free time, you might find me participating in hackathons, exploring new tech trends, or working on personal projects that blend my interests in technology and business. I'm always excited to connect with like-minded individuals and collaborate on innovative projects. Let's create something amazing together! 🚀
