@@ -9,7 +9,7 @@ a Computer Science student at The University of Waterloo and Business Administra
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sachinvedgupta&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sachinvedgupta&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=aryanp05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aryanp05&theme=dark&hide_border=false)<br/>
 
 In my free time, you might find me participating in hackathons, exploring new tech trends, or working on personal projects that blend my interests in technology and business. I'm always excited to connect with like-minded individuals and collaborate on innovative projects. Let's create something amazing together! 🚀
