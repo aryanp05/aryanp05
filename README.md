@@ -4,6 +4,9 @@
 
 💻 I’m proficient in full-stack development, leveraging Next.js/React.js with TailwindCSS for front-end design, Python, C, and C++ for back-end applications, Flask for creating web applications, Tensorflow, PyTorch, and Scikit Learn for machine learning applications, MongoDB and SQLite for database management, and Azure + Other cloud services for cloud hosting!
 
+# 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin-ved-gupta) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=internet-explorer&logoColor=white)](https://aryan-patel-portfolio.vercel.app)
 [Click Here to visit my website](https://aryan-patel-portfolio.vercel.app)
 
 # 💻 Tech Stack:
@@ -11,13 +14,14 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![SQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aryanp05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aryanp05&theme=dark&hide_border=false)<br/>
 
 In my free time, you might find me participating in hackathons, exploring new tech trends, or working on personal projects that blend my interests in technology and business. I'm always excited to connect with like-minded individuals and collaborate on innovative projects. Let's create something amazing together! 🚀
+
+
+[![](https://visitcount.itsvg.in/api?id=aryanp05&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> &nbsp;
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> &nbsp;
@@ -33,3 +37,4 @@ In my free time, you might find me participating in hackathons, exploring new te
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> &nbsp;
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" /> &nbsp;
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> &nbsp;
+
