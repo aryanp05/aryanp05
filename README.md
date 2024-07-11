@@ -5,7 +5,7 @@
 💻 I’m proficient in full-stack development, leveraging Next.js/React.js with TailwindCSS for front-end design, Python, C, and C++ for back-end applications, Flask for creating web applications, Tensorflow, PyTorch, and Scikit Learn for machine learning applications, MongoDB and SQLite for database management, and Azure + Other cloud services for cloud hosting!
 
 # 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=google-chrome&logoColor=white)](https://aryan-patel-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=google-chrome&logoColor=white)](https://aryanpatel.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin-ved-gupta) 
 
 
