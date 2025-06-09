@@ -6,7 +6,7 @@
 
 # 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=google-chrome&logoColor=white)](https://aryanpatel.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin-ved-gupta) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-patel-129461246/) 
 
 
 # 💻 Tech Stack:
