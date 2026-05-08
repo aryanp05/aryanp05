@@ -22,9 +22,14 @@ Recently, I've worked on market data and order book infrastructure at **BitGo** 
 ## GitHub
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aryanp05&theme=github_dark&hide_border=true&show_icons=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanp05&layout=compact&theme=github_dark&hide_border=true&hide=html,css,jupyter%20notebook" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanp05&theme=github_dark" />
 </p>
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aryanp05&theme=github_dark&hide_border=true&show_icons=true" />
+</p>
+
+---
 
 ---
 ## Tech I Use
