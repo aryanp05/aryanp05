@@ -1,40 +1,97 @@
-# Hi there, I'm Aryan Patel! 👋
+# Hey, I'm Aryan Patel 👋
 
-👋Hello World, I'm Aryan Patel, a Computer Science student at The University of Waterloo and Business Administration Student at Wilfrid Laurier University pursuing a career in software development, ML/AI, and finance.
+I'm a Computer Science + Business Administration student at the University of Waterloo and Wilfrid Laurier University, focused on software engineering, trading systems, distributed systems, and quantitative finance.
 
-💻 I’m proficient in full-stack development, leveraging Next.js/React.js with TailwindCSS for front-end design, Python, C, and C++ for back-end applications, Flask for creating web applications, Tensorflow, PyTorch, and Scikit Learn for machine learning applications, MongoDB and SQLite for database management, and Azure + Other cloud services for cloud hosting!
+Most recently, I worked on real-time market data infrastructure at **BitGo** and compliance/distributed systems at **Shopify**. I enjoy building high-performance systems, developer tools, AI/ML products, and finance-focused applications.
 
-# 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=google-chrome&logoColor=white)](https://aryanpatel.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-patel-129461246/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-aryanpatel.dev-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)](https://aryanpatel.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aryan%20Patel-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryanpatel05/)
+[![GitHub](https://img.shields.io/badge/GitHub-aryanp05-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aryanp05)
 
+---
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![SQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+## 📈 GitHub Activity
 
+![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryanp05&theme=github_dark&hide_border=true&show_icons=true&count_private=true)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aryanp05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aryanp05&theme=dark&hide_border=false)<br/>
+![GitHub Streak](https://streak-stats.demolab.com?user=aryanp05&theme=github-dark-blue&hide_border=true)
 
-In my free time, you might find me participating in hackathons, exploring new tech trends, or working on personal projects that blend my interests in technology and business. I'm always excited to connect with like-minded individuals and collaborate on innovative projects. Let's create something amazing together! 🚀
+![Aryan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aryanp05&theme=github-dark&hide_border=true)
 
+---
 
-[![](https://visitcount.itsvg.in/api?id=aryanp05&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🧠 Currently Interested In
 
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> &nbsp;
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> &nbsp;
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> &nbsp;
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" /> &nbsp;
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> &nbsp;
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /> &nbsp;
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /> &nbsp;
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> &nbsp;
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> &nbsp;
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> &nbsp;
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" /> &nbsp;
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> &nbsp;
+- Low-latency market data systems and trading infrastructure  
+- Distributed systems, event-driven architectures, and backend performance  
+- Quantitative trading strategies across ETFs, futures, volatility, and crypto markets  
+- Developer tools, repo analysis, and AI-assisted engineering workflows  
 
+---
+
+## 🛠 Tech Stack
+
+**Languages:**  
+Python · C++ · C · JavaScript · TypeScript · Ruby · SQL · Bash
+
+**Frontend:**  
+React · Next.js · TailwindCSS · HTML · CSS
+
+**Backend & Systems:**  
+Node.js · Express · Flask · FastAPI · GraphQL · Redis · WebSockets
+
+**Data, ML & Quant:**  
+TensorFlow · PyTorch · Pandas · NumPy · SQLite · Databricks · Apache Spark
+
+**Cloud & Tools:**  
+Azure · AWS · Docker · Git · GitLab · Grafana · Graylog
+
+---
+
+## 💼 Experience Highlights
+
+### BitGo — Trade Software Engineer Intern  
+- Redesigned real-time market data infrastructure by consolidating thousands of WebSocket connections into a multiplexed per-exchange model  
+- Built high-throughput Level 2 order book processing systems with deterministic fanout and optimized update pipelines  
+- Developed zero-downtime dynamic configuration flows for trading venues, product registries, WebSocket subscriptions, and order books  
+
+### Shopify — Software Engineer Intern  
+- Built distributed compliance systems to monitor merchant activity and enforce policy workflows  
+- Developed trust-platform services using Ruby, React, and GraphQL  
+- Worked on risk-aware onboarding and fraud detection workflows  
+
+### TMX Group / Toronto Stock Exchange — Quantitative Developer Intern  
+- Worked on equity markets systems, trading data, and quantitative development projects  
+
+---
+
+## 🚀 Featured Projects
+
+### FinLake — Large-Scale Financial Data Processing & Agentic Trading  
+Built an ELT pipeline on Databricks to ingest and process financial news at scale using Apache Spark, Delta Lake, and ADLS. Developed LangGraph-based trading agents that query refined data and execute sentiment-driven workflows.
+
+### TraceQL — Repo Grapher for AI Coding Agents  
+Building a CLI that maps files, functions, and dependencies into a compact graph so AI coding tools can understand large codebases with fewer input tokens.
+
+### OptiCode — macOS Clipboard & Secrets Agent  
+A macOS background agent with multiple persistent clipboard slots, global keyboard shortcuts, and a password-protected secrets vault.
+
+---
+
+## 🏆 A Few Wins
+
+- Hack the North 2024 — Overall Winner  
+- BDO Future Leaders Case Competition — 1st / 1500  
+- JDC Digital Strategy — 2nd in Canada East  
+- Dean’s List  
+- Waterloo CS + Laurier BBA Double Degree  
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to chatting about software engineering, trading systems, quant finance, startups, or cool technical projects.
+
+- Portfolio: [aryanpatel.dev](https://aryanpatel.dev)
+- LinkedIn: [linkedin.com/in/aryanpatel05](https://www.linkedin.com/in/aryanpatel05/)
+- GitHub: [github.com/aryanp05](https://github.com/aryanp05)
